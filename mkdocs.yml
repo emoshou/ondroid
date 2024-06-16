@@ -9,6 +9,7 @@ nav:
     - calculations/index.md
     - Arms:
       - Arm, L: calculations/calculations_arm.md
+      - Arm Calculations, L, 1: notebook.ipynb
   - Design:
     - CAD: cad.md
 
@@ -41,6 +42,7 @@ theme:
       accent: purple 
 
 plugins:
+  - mkdocs-jupyter
   - search
 
 extra:
