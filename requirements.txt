@@ -1,0 +1,5 @@
+numpy
+matplotlib
+yaml
+mkdocs-materials
+mkdocs-jupyter

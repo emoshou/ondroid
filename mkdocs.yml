@@ -1,6 +1,5 @@
 site_name: ondroid
-site_url: https://ondroid.ai
-
+site_url: https://emoshou.github.io/ondroid/
 nav:
   - Getting Started:
     - gettingStarted/index.md
