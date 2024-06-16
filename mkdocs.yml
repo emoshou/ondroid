@@ -1,30 +1,42 @@
 site_name: ondroid
 site_url: https://ondroid.ai
+
+nav:
+  - Getting Started:
+    - Mission: mission.md
+  - Calculations: 
+    - calculations/index.md
+    - Arms:
+      - Arm, L: calculations/calculations_arm.md
+  - Design:
+    - CAD: cad.md
+
 theme:
   name: material
   features:
-    - navigation.tabs
-    - navigation.sections
-    - toc.integrate
+    - navigation.prune
+    - navigation.indexes
     - navigation.top
     - search.suggest
     - search.highlight
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+
   language: en
+
   palette:
     - scheme: slate 
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode    
-      primary: white
+      primary: grey
       accent: lime
     - scheme: default
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch Mode
-      primary: teal
+      primary: grey
       accent: purple 
 
 plugins:
@@ -49,3 +61,14 @@ markdown_extensions:
   - pymdownx.mark
   - attr_list
 
+  - pymdownx.arithmatex:
+      generic: true
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
