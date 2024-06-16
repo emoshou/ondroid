@@ -3,6 +3,7 @@ site_url: https://ondroid.ai
 
 nav:
   - Getting Started:
+    - gettingStarted/index.md
     - Mission: mission.md
   - Calculations: 
     - calculations/index.md
