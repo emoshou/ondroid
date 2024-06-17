@@ -1,23 +1,39 @@
 site_name: ondroid
 site_url: https://emoshou.github.io/ondroid/
+
 nav:
   - Getting Started:
     - gettingStarted/index.md
     - Mission: gettingStarted/mission.md
-  - Calculations: 
-    - calculations/index.md
+  - DevOps:
+    - devops/index.md
+    - Mechanical DevOps:
+      - devops/mechanical/index.md
+      - CAD: devops/mechanical/cad.md
+    - Software DevOps:
+      - devops/software/index.md
+  - Analysis: 
+    - analysis/index.md
     - Arms:
-      - Arm, L: calculations/calculations_arm.md
-      - Arm Calculations, L, 1: notebook.ipynb
+      - Arm, L:
+        - analysis/arms/arm, L/index.md
+        - Arm, L Calculations:
+          - Arm Calculations, L, 1: analysis/arms/arm, L/notebook.ipynb
   - Design:
-    - CAD: cad.md
+    - design/index.md
+    - Loads and Dynamics: design/loadsAndDynamics.md
+    - Concept Design: design/conceptDesign.md
 
 theme:
+  logo: assets/logo1.png
+  favicon: assets/logo1.png
+
   name: material
   features:
-    - navigation.prune
+    - navigation.expand
+      #- navigation.prune
     - navigation.indexes
-    - navigation.top
+      #- navigation.top
     - search.suggest
     - search.highlight
     - content.tabs.link
