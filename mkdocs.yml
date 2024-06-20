@@ -3,7 +3,7 @@ site_name: ondroid
 site_url: https://ondroid.ai
 
 nav:
-  - Home: index.md
+  - Home: docs/index.md
   - Getting Started:
     - gettingStarted/index.md
     - Mission: gettingStarted/mission.md
