@@ -10,6 +10,7 @@ nav:
     - devops/index.md
     - Mechanical DevOps:
       - CAD: devops/mechanical/cad.md
+      - Allowed Packages: devops/mechanical/cadPackages.md
     - Software DevOps:
       - devops/software/index.md
   - Analysis: 
