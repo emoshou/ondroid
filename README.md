@@ -1,8 +1,10 @@
-# ondroid
+# ondroid - The Open Source Humanoid Robot
+## Mission
+Design a full DOF humanoid robot incrementally, halving the cost until the BOM is $1000. <br><br>
 
-# how to contribute
-find things on the # TODO: list and work on them
+## Discord
+Join our Discord at: [https://discord.gg/uaXHsjFq4B](https://discord.gg/uaXHsjFq4B)
 
-# calculations
-- data stored in YAML format
-- variables should be stored in requisite YAML files
+## Contribute
+Read the [Getting Started](gettingStarted/index.md) documentation for how you can contribute to the project.
+
