@@ -1,6 +1,6 @@
 site_name: ondroid
-  #site_url: https://emoshou.github.io/ondroid/
-site_url: https://ondroid.ai
+site_url: https://emoshou.github.io/ondroid/
+  #site_url: https://ondroid.ai
 
 nav:
   - Home: index.md
