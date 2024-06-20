@@ -4,7 +4,7 @@ Yes - as long as it is licensed for **unrestricted** commercial use.
 Example; Fusion360 is not allowed (unless you pay for it). The free version does not allow for **unrestricted** commercial use.
 
 ### This Sounds Silly - why can't I use Free Software?
-ondroid is Open Source under an Open Source license, but the license allows for unrestricted commercial use. By using free CAD software, you jeopardize your work being removed from the project or worse, opening the project up to legal issues.
+ondroid is Open Source under an Open Source license, but our license allows for unrestricted commercial use. By using free offerings of commercial CAD software without unrestricted commercial licensing, you jeopardize your work being removed from the project or worse, opening the project up to legal issues.
 
 ### List of Unapproved CAD Packages
 - Fusion 360 Free Version (Autodesk Fusion for personal use)
@@ -14,6 +14,7 @@ ondroid is Open Source under an Open Source license, but the license allows for 
     
 ### List of Approved CAD Packages
 This is not a definitive list but only provided to offer guidance:
+
 - Solidworks
 - Fusion 360 (Commercial License)
 - FreeCAD
