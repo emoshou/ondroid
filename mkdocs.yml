@@ -1,19 +1,23 @@
 site_name: ondroid
-site_url: https://emoshou.github.io/ondroid/
+  #site_url: https://emoshou.github.io/ondroid/
+site_url: https://ondroid.ai
 
 nav:
+  - Home: index.md
   - Getting Started:
     - gettingStarted/index.md
     - Mission: gettingStarted/mission.md
+  - Glossary: glossary.md
   - DevOps:
     - devops/index.md
     - Mechanical DevOps:
-      - devops/mechanical/index.md
       - CAD: devops/mechanical/cad.md
     - Software DevOps:
       - devops/software/index.md
   - Analysis: 
     - analysis/index.md
+    - System:
+      - system/index.md
     - Arms:
       - Arm, L:
         - analysis/arms/arm, L/index.md
