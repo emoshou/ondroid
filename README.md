@@ -1,6 +1,4 @@
 # ondroid - The Open Source Humanoid Robot
-## Mission
-Design a full DOF humanoid robot incrementally, halving the cost until the BOM is $1000. 
 
 ## Discord
 Join our Discord at: [https://discord.gg/uaXHsjFq4B](https://discord.gg/uaXHsjFq4B)

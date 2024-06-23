@@ -22,9 +22,9 @@ nav:
         - analysis/arms/arm, L/index.md
         - Arm, L Calculations:
           - Arm Calculations, L, 1: analysis/arms/arm, L/notebook.ipynb
-  - Design:
+  - Design and Engineering:
     - design/index.md
-    - Loads and Dynamics: design/loadsAndDynamics.md
+    - Design Constraints: design/constraints.md
     - Concept Design: design/conceptDesign.md
 
 theme:

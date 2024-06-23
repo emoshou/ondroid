@@ -1,5 +1,5 @@
 # Mission
-Design a full DOF humanoid robot incrementally, halving the cost until the BOM is $1000. <br><br>
+Design a full DOF humanoid robot for research use incrementally, halving the cost until the BOM is $1000.
 
 # Nice to Haves
 1. Educate the public about Engineering and get people excited about it through Robotics

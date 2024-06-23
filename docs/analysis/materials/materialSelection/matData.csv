@@ -1,0 +1,17 @@
+material,yield,cost
+AR500 Steel,187,1.5
+AR400 Steel,140,1.2
+7075-T6 Aluminum,73,5
+2024-T3 Aluminum,50,3.5
+6061-T6 Aluminum,40,2.8
+5052-H32 Aluminum,28,2.5
+4130 Chromoly Steel,63.1,5
+G90 Steel,33,1
+Mild Steel (A36),36,0.6
+Stainless Steel 304,30,3
+Stainless Steel 316,30,4
+Titanium (Grade 5),128,20
+Titanium (Grade 2),50,15
+Brass,14,2.5
+Copper,10,3
+1075 Blue Temper Spring Steel,75,5
