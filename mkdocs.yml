@@ -17,6 +17,7 @@ nav:
     - analysis/index.md
     - System:
       - system/index.md
+    - Materials: analysis/materials/materialSelection/matCompare.ipynb
     - Arms:
       - Arm, L:
         - analysis/arms/arm, L/index.md
