@@ -4,6 +4,7 @@ site_url: https://ondroid.ai
 nav:
   - Getting Started:
     - gettingStarted/index.md
+    - TODO: gettingStarted/TODO.md
     - Mission: gettingStarted/mission.md
   - Glossary: glossary.md
   - DevOps:
@@ -26,6 +27,7 @@ nav:
   - Design and Engineering:
     - design/index.md
     - Design Constraints: design/constraints.md
+    - Component Naming/Numbering: design/componentNaming.md
     - Concept Design: design/conceptDesign.md
 
 theme:
@@ -50,7 +52,7 @@ theme:
     - scheme: slate 
       toggle:
         icon: material/toggle-switch
-        name: Switch to light mode    
+        name: Switch to light mode
       primary: grey
       accent: lime
     - scheme: default
@@ -70,6 +72,9 @@ extra:
       link: https://github.com/emoshou/ondroid/
 
 markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
