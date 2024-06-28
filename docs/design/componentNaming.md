@@ -28,6 +28,6 @@ Where:
 
 ## Illegal CNs
 - A1-SHRD-001-0
-    - The component number (third column) has leading zeroes
+    - The component number (third column) has leading zeroes, and is missing the material column
 
 
