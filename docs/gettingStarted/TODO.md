@@ -8,6 +8,9 @@
         - Hydraulic Actuation
         - DD Actuation
     - Actuator Placement
+- Materials Database
+    - Material Comparison
+        - Change current analysis to measure specific strength against cost per pound, not just yield strength
 
 # Software Engineering
 
