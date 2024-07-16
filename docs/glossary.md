@@ -7,6 +7,8 @@ __Assembly__: Traditional parlance for ondroid Component.
 
 __Mechanical Design__: Concept design of parts and assemblies. Also known as design, machine design, or mechanism design.
 
+__Non-flight__: Hardware or software that is not utilized in deployment. Example: a load bearing frame used in testing, or a charging dock. In general, anything that is not a part of the robot during use. Equivalent in Aerospace: GSE (Ground Support Equipment).
+
 # Acronyms
 Acroynms have a space before and after to aid in search.<br><br>
 
