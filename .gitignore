@@ -162,6 +162,8 @@ cython_debug/
 #.idea/
 
 # Standard Stuff
+*.DS_Store
+.DS_Store*
 .DS_Store
 
 # CAD files not native to project
