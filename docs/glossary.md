@@ -9,6 +9,7 @@ __Mechanical Design__: Concept design of parts and assemblies. Also known as des
 
 __Non-flight__: Hardware or software that is not utilized in deployment. Example: a load bearing frame used in testing, or a charging dock. In general, anything that is not a part of the robot during use. Equivalent in Aerospace: GSE (Ground Support Equipment).
 
+__Commercial Off TheShelf__: Items purchased from vendors that are not manufactured by the project.
 # Acronyms
 Acroynms have a space before and after to aid in search.<br><br>
 
@@ -18,8 +19,10 @@ Acroynms have a space before and after to aid in search.<br><br>
 
 &nbsp;__FBD__ - Free Body Diagram
 
-&nbsp;__IK__ - Inverse Kinematics
-
 &nbsp;__DOF__ - Degree of Freedom
 
 &nbsp;__BOM__ - Bill of Materials
+
+&nbsp;__IK__ - Inverse Kinematics
+
+&nbsp;__COTS__ - Commercial Off The Shelf

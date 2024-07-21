@@ -2,6 +2,7 @@ site_name: ondroid
 site_url: https://ondroid.ai
 
 nav:
+  - Home: index.md
   - Getting Started:
     - gettingStarted/index.md
     - TODO: gettingStarted/TODO.md
@@ -15,15 +16,17 @@ nav:
     - Software DevOps:
       - devops/software/index.md
   - Analysis: 
+    - ondroid-00:
+      - Arms:
+        - analysis/arms/arm, L/index.md
+        - Arm, L Calculations:
+          - Arm Calculations, L, 1: analysis/arms/arm, L/notebook.ipynb
     - analysis/index.md
     - System:
       - system/index.md
     - Materials: analysis/materials/materialSelection/matCompare.ipynb
-    - Arms:
-      - Arm, L:
-        - analysis/arms/arm, L/index.md
-        - Arm, L Calculations:
-          - Arm Calculations, L, 1: analysis/arms/arm, L/notebook.ipynb
+  - Tooling:
+    - delta-00: delta/delta-00.md
   - Design and Engineering:
     - design/index.md
     - Design Constraints: design/constraints.md
