@@ -1,5 +1,5 @@
 # Delta - The Actually Open Source Three Axis Robot
-![Delta](/delta/delta00render1.PNG)
+![Delta](/delta/delta00render1.png)
 
 Inspired by a tweet by [Kenneth Cassel](https://x.com/KennethCassel/status/1811797731351974067), the ondroid Delta is three axis robot powered by three stepper motors.
 
