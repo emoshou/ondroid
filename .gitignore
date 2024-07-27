@@ -225,3 +225,7 @@ cython_debug/
 *.plasticity
 .tmp
 .TMP
+
+
+# Random
+*.swp
