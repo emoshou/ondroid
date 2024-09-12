@@ -18,7 +18,6 @@ nav:
   - Analysis: 
     - ondroid-00:
       - Arms:
-        - analysis/arms/index.md
         - Arm, L Calculations: analysis/arms/notebook.ipynb
     - analysis/index.md
     - System:
