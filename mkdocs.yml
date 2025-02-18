@@ -3,6 +3,7 @@ site_url: https://ondroid.ai
 
 nav:
   - Home: index.md
+  - Citations: citations.md
   - Getting Started:
     - gettingStarted/index.md
     - TODO: gettingStarted/TODO.md
@@ -23,17 +24,12 @@ nav:
     - System:
       - system/index.md
     - Materials: analysis/materials/materialSelection/matCompare.ipynb
-  - Tooling:
-    - delta-00: delta/delta-00.md
   - Design and Engineering:
     - design/index.md
     - Design Constraints: design/constraints.md
     - Component Naming/Numbering: design/componentNaming.md
-    - Concept Design: design/conceptDesign.md
 
 theme:
-  logo: assets/logo1.png
-  favicon: assets/logo1.png
 
   name: material
   features:

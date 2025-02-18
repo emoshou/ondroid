@@ -1,6 +1,11 @@
 # CAD
 ## Official Project CAD Package
-The official CAD software of ondroid is [Ondsel](https://www.ondsel.com) (a FreeCAD derivative). Ondsel files are backwards compatible with FreeCAD, so in the case you'd prefer using FreeCAD, you're able to open files with it but without the assembly functionality.
+The official CAD software of ondroid is [FreeCAD](https://www.freecad.org).
+
+FreeCAD, despite being the official software, is by defualt by licensing requirements only. It enables opening and management of STP files. Direct modeling is encouraged using your paid for CAD software of choice.
+
+Parametric modeling is allowed, but the information is not translatable via STP using [ISO standards](https://en.wikipedia.org/wiki/ISO_10303-21).
+
 
 ## [Check if your CAD Package is Allowed](cadPackages.md)
 ## Assemblies

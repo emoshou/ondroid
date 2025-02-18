@@ -1,0 +1,2 @@
+# Citations
+1. Herron, C. W., Fuge, A. J., Beiter, B. C., Fuge, Z. J., Tremaroli, N. J., Welch, S., Stelmack, M., Kogelis, M., & Hancock, P. (2024). PANDORA: The Open-Source, Structurally Elastic Humanoid Robot. arXiv. https://arxiv.org/abs/2407.18558v1 (License: CC BY 4.0)
