@@ -229,6 +229,7 @@ cython_debug/
 
 # Random
 *.swp
+*~
 
 # Python Environment
 ondroid/
