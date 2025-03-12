@@ -1,6 +1,6 @@
 # ondroid - The Open Source Humanoid Robot
 
-## CAD Isometric as of 2/22/25
+## CAD - 03/12/25
 <div align="center">
 
 <picture>
