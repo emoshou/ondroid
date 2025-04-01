@@ -4,7 +4,7 @@
 <div align="center">
 
 <picture>
-  <img alt="ondroid" src="/currentRelease.PNG" width="50%" height="50%">
+  <img alt="ondroid" src="/currentRelease.PNG" width="100%">
 </picture>
 
 
