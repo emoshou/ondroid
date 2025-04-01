@@ -4,4 +4,5 @@ CAD/ondroid-00/ondroid_00.step filter=lfs diff=lfs merge=lfs -text
 /CAD/ondroid-00/ondroid_00.step filter=lfs diff=lfs merge=lfs -text
 CAD/ondroid-00/ondroid_00[[:space:]]-[[:space:]]baseHipSimplified1.step filter=lfs diff=lfs merge=lfs -text
 docs/analysis/FEA/conceptDesign/1.pmx filter=lfs diff=lfs merge=lfs -text
+CAD/ondroid-00/ondroid-00.step filter=lfs diff=lfs merge=lfs -text
 *.FCStd filter=lfs diff=lfs merge=lfs -text
