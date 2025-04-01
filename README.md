@@ -1,6 +1,6 @@
 # ondroid - The Open Source Humanoid Robot
 
-## CAD - 03/12/25
+## CAD - 04/01/25
 <div align="center">
 
 <picture>
@@ -8,8 +8,9 @@
 </picture>
 
 
+<div align="LEFT">
 ## Discord
-Join our Discord at: [https://discord.gg/uaXHsjFq4B](https://discord.gg/uaXHsjFq4B)
+[https://discord.gg/uaXHsjFq4B](https://discord.gg/uaXHsjFq4B)
 
 ## Contribute
 Read the [Getting Started](http://ondroid.ai/gettingStarted/) documentation for how you can contribute to the project.
