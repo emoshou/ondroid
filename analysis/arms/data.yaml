@@ -1,0 +1,31 @@
+arms:
+  L1: !!python/object/apply:pint._unpickle_quantity
+  - &id001 !!python/name:pint.facets.plain.quantity.PlainQuantity ''
+  - 0.75
+  - !!python/object/new:pint.util.UnitsContainer
+    state: !!python/tuple
+    - !!python/object/new:pint.util.udict
+      dictitems:
+        meter: 1
+    - 1
+    - &id002 !!python/name:builtins.float ''
+armsL1: !!python/object/apply:pint._unpickle_quantity
+- *id001
+- 750
+- !!python/object/new:pint.util.UnitsContainer
+  state: !!python/tuple
+  - !!python/object/new:pint.util.udict
+    dictitems:
+      millimeter: 1
+  - 1
+  - *id002
+armsL2: !!python/object/apply:pint._unpickle_quantity
+- *id001
+- 500
+- !!python/object/new:pint.util.UnitsContainer
+  state: !!python/tuple
+  - !!python/object/new:pint.util.udict
+    dictitems:
+      millimeter: 1
+  - 1
+  - *id002
