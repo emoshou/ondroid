@@ -1,6 +1,6 @@
 # ondroid - The Open Source Humanoid Robot
 
-## CAD - 04/01/25
+## CAD - Isometric View
 <div align="center">
 
 <picture>
@@ -9,6 +9,8 @@
 
 
 <div align="LEFT">
+
+
 ## Discord
 [https://discord.gg/uaXHsjFq4B](https://discord.gg/uaXHsjFq4B)
 
